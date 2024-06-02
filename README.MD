@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src=".github/assets/img/macbook-art.png"
+    src=".github/assets/macbook-art.png"
     width="400"  
   />
 </p>

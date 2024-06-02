@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://www.dio.me/articles/dicas-e-truques-para-otimizar-funcoes-em-javascript-VU4LGK" title="Preview do Conteúdo">
-  <img src=".github/assets/img/artigo-javascript-acinfo33-1.png" width="80%">
+  <img src=".github/assets/artigo-javascript-acinfo33-1.png" width="80%">
   </a>
 <p>
 
